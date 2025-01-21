@@ -5,7 +5,7 @@
 - [Core Features](#core-features)
 - [Extension Points](#extension-points)
 - [Quick Start](#quick-start)
-- [Using Zen as a Module](#using-zen-as-a-module)
+- [Using Thor as a Module](#using-zen-as-a-module)
 
 ## Overview
 Built in GO, Thor is a highly modular AI conversation engine that prioritizes platform independence and pluggable design. It offers an adaptable framework for creating conversational systems by:
