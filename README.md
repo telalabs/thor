@@ -1,5 +1,8 @@
 # Thor - LLM Framework
 
+![telabanner](https://github.com/user-attachments/assets/6b432954-b88b-41e3-8ff3-28a196acde8e)
+
+
 ## Table of Contents
 - [Overview](#Overview)
 - [Core Features](#core-features)
