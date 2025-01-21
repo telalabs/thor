@@ -1,4 +1,4 @@
-# Thor - Advanced LLM Framework
+# Thor - LLM Framework
 
 ## Table of Contents
 - [Overview](#Overview)
