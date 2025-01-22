@@ -136,11 +136,11 @@ go get github.com/telalabs/thor
 2. Import Thor in your code:
 ```go
 import (
-  "github.com/soralabs/thor/engine"
-  "github.com/soralabs/thor/llm"
-  "github.com/soralabs/thor/manager"
-  "github.com/soralabs/thor/managers/personality"
-  "github.com/soralabs/thor/managers/insight"
+  "github.com/telalabs/thor/engine"
+  "github.com/telalabs/thor/llm"
+  "github.com/telalabs/thor/manager"
+  "github.com/telalabs/thor/managers/personality"
+  "github.com/telalabs/thor/managers/insight"
   ... etc
 )
 ```
