@@ -3,7 +3,7 @@ package llm
 import (
 	"context"
 
-	toolkit "github.com/soralabs/toolkit/go"
+	toolkit "github.com/telalabs/kit/go"
 )
 
 type Provider interface {
